@@ -10,7 +10,7 @@
 
 > ## Output 
 
-
+![](./12.png)
 
 
 
@@ -21,7 +21,8 @@
 
  ## 🚀 Project 12 Live Link 
  
-- This Project is been Hosted on Netlify. [https://businesssomu.netlify.app/)
+- This Project is been Hosted on Netlify.
+[Click Me](https://businesssomu.netlify.app/)
 
 
 
