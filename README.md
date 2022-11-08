@@ -23,8 +23,8 @@
 
  ## 🚀 Project 12 Live Link 
  
-- This Project is been Hosted on Netlify.
-[Click here](https://businesssomu.netlify.app/)
+- This Project is been Hosted on Vercel.
+[Click here](https://project-12-buisness-solution-1ln2.vercel.app/)
 
 
 
