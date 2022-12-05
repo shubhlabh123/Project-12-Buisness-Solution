@@ -1632,4 +1632,7 @@ nav ul {
   .sixth-container .left-section h2 {
     margin-top: 166px;
   }
+  .first-container .btn-2 {
+    display: none;
+  }
 }
